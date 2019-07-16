@@ -1,6 +1,23 @@
-.column {
-  width: 400px;
+.column1 {
+  padding: 8px;
+  width: 390px;
   float: left;
+  background-color: #999966;
+}
+
+.column2 {
+  padding: 8px;
+  width: 390px;
+  float: left;
+  background-color: #009933;
+}
+
+.column3 {
+  padding: 8px;
+  width: 390px;
+  float: left;
+  background-color: #33ccff;
+
 }
 
 img {
